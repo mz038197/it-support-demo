@@ -1,6 +1,6 @@
 """密碼規則檢查。"""
 
-MIN_LENGTH = 8
+MIN_LENGTH = 12
 
 
 def is_strong_password(password: str) -> bool:
