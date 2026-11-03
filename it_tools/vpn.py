@@ -1,6 +1,6 @@
 """VPN 設定檔檢查。"""
 
-DEFAULT_TIMEOUT_SECONDS = 5
+DEFAULT_TIMEOUT_SECONDS = 30
 
 
 def validate_vpn_config(config: dict) -> list[str]:

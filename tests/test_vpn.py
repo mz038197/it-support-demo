@@ -10,4 +10,4 @@ def test_missing_server():
 
 
 def test_default_timeout():
-    assert DEFAULT_TIMEOUT_SECONDS == 5
+    assert DEFAULT_TIMEOUT_SECONDS == 30
